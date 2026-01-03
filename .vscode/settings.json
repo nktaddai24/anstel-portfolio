@@ -1,3 +1,4 @@
 {
-    "editor.acceptSuggestionOnEnter": "smart"
+    "editor.acceptSuggestionOnEnter": "smart",
+    "liveServer.settings.port": 5501
 }
