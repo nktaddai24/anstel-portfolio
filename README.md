@@ -2,73 +2,112 @@
 
 Welcome to the ANSTEL Portfolio repository.
 
-This repository contains the development work for the ANSTEL website, a project focused on building and presenting the ANSTEL brand through practical web development.
+This repository serves as the central development workspace for my web development projects, practical exercises and professional growth as an aspiring software developer.
 
-## About the Project
+My goal is to apply programming concepts through real-world projects, strengthen my problem-solving abilities and develop the skills required to build accessible, well-structured and user-friendly websites.
 
-ANSTEL is a fitness-focused brand built around purposeful training, improved movement, physical well-being and long-term joint health.
+## About This Repository
 
-This project is part of my journey into web development, where I am applying the skills I learn through hands-on projects and continuous practice.
+The ANSTEL Portfolio brings together projects developed through independent study, practical experimentation and continuous improvement.
 
-The goal is to develop a functional, accessible and user-friendly website that represents the ANSTEL brand.
+Rather than focusing exclusively on tutorials, I use these projects to practise building solutions, identifying errors, debugging code and documenting my development process.
 
-## Project Structure
+## Projects
+
+### 1. ANSTEL FITNESS
+
+A fitness and wellness website for ANSTEL FITNESS.
+
+The project aims to establish an online presence for the brand and communicate its services, training philosophy and business information.
+
+Planned areas of development include:
+
+- Business introduction
+- Training programmes
+- Personal training
+- Membership information
+- Location and opening hours
+- Contact and social media channels
+
+**Status:** Development pending.
+
+### 2. ANSTEL Barbershop
+
+A website project for ANSTEL Barbershop.
+
+The objective is to develop an online platform that presents the business, its services and relevant customer information.
+
+**Status:** Planned.
+
+### 3. Developer Portfolio
+
+My personal developer portfolio.
+
+This project will showcase my learning journey, technical abilities and completed development projects.
+
+**Status:** Planned.
+
+## Technologies
+
+My current learning and development focus includes:
+
+- HTML5
+- CSS3
+- JavaScript
+- Git
+- GitHub
+
+Additional technologies will be introduced as my development skills progress.
+
+## Repository Structure
 
 ```text
 anstel-portfolio/
 │
 ├── .vscode/
 │
-├── anstel-site/
-│   ├── index.html
-│   ├── about.html
-│   ├── services.html
-│   └── contact.html
+├── anstel-fitness/
+│
+├── anstel-barbershop/
+│
+├── developer-portfolio/
 │
 └── README.md
 ```
 
-## Technologies
+Each project is organised in its own directory to maintain a clear and manageable development structure.
 
-The project currently focuses on:
+## Development Approach
 
-* HTML5
-* Semantic HTML
-* Accessible HTML structure
-* Web page organization and navigation
+My development process follows these principles:
 
-Additional technologies will be introduced as the project develops.
+1. Learn the underlying concepts.
+2. Practise through independent exercises.
+3. Build practical projects.
+4. Test and debug code.
+5. Improve structure and accessibility.
+6. Document development progress.
+7. Review and refine completed work.
 
 ## Learning Objectives
 
-Through this project, I am working towards improving my ability to:
+Through this repository, I aim to develop competence in:
 
-* Structure web pages using HTML.
-* Apply semantic HTML elements correctly.
-* Build organized multi-page websites.
-* Create accessible and user-friendly web content.
-* Use Git and GitHub for version control.
-* Develop and maintain real-world projects.
+- Writing clean and semantic HTML.
+- Creating accessible web pages.
+- Building responsive website layouts.
+- Understanding frontend development.
+- Writing and debugging JavaScript.
+- Managing projects with Git and GitHub.
+- Developing independent problem-solving skills.
 
 ## Project Status
 
-**Status:** In Development
+This repository is actively evolving as I progress through my software development studies.
 
-The website is being developed progressively as I continue learning and applying web development concepts.
-
-## Developer
-
-**Addai Nketiah**
-
-Aspiring Web Developer | Entrepreneur | Founder of ANSTEL
-
-I am currently developing my skills through the FreeCodeCamp Responsive Web Design curriculum and practical projects.
-
-## Connect
-
-* GitHub: https://github.com/nktaddai24
-* LinkedIn: www.linkedin.com/in/addai-nketiah
+Project descriptions and technologies will be updated as development advances.
 
 ---
 
-*Built through continuous learning, experimentation and practical application.*
+**ANSTEL Portfolio**  
+Knowledge. Practice. Development. Progress.
